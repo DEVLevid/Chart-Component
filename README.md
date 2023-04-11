@@ -1,6 +1,9 @@
 Frontend Mentor - Expenses chart component solution
 This is a solution to the Expenses chart component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![image](https://user-images.githubusercontent.com/120687641/231168709-0159f967-92db-4fdc-ba76-76be981f185f.png)
+
+
 Table of contents
 Overview
 The challenge
